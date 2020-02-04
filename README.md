@@ -16,3 +16,7 @@
 [3/100] <br>
 • Haven't learned anything new today but got a lot of coding done because I've started working on the first project of the Techdegree I'm enrolled in (an online coding bootcamp by Treehouse).<br>
 
+[4/100] <br>
+• Finished and submitted project of Unit 1 (personal profile page) and started Unit 2 which will eventually lead to project 2 (build a responsive, mobile-first layout using HTML and CSS).<br>
+• The sections I've completed today were about CSS basics, such as linking and importing style sheets, ID and class selectors, and pseudo-classes. All of these topics were covered in the Responsive Web Design course I took on freeCodeCamp but it's always nice to review some of these foundations.<br>
+• I also went on with Adobe XD (today I wasn't following a course thoug, just experimenting on my own).
