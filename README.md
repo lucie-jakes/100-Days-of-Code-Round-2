@@ -20,3 +20,8 @@
 • Finished and submitted project of Unit 1 (personal profile page) and started Unit 2 which will eventually lead to project 2 (build a responsive, mobile-first layout using HTML and CSS).<br>
 • The sections I've completed today were about CSS basics, such as linking and importing style sheets, ID and class selectors, and pseudo-classes. All of these topics were covered in the Responsive Web Design course I took on freeCodeCamp but it's always nice to review some of these foundations.<br>
 • I also went on with Adobe XD (today I wasn't following a course thoug, just experimenting on my own).
+
+[5/100] <br>
+• Another day full of reviewing basic CSS concepts, such as selectors, values and units.
+• Started another section of the curriculum which is about the box model.
+• I've been practicing what I've learned by building a simple landing page.
