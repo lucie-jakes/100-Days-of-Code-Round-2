@@ -29,4 +29,8 @@
 [6/100] <br>
 • Went on with basic CSS today (the course is more than 6 hours long) and reviewed everything about the box model, background properties and floats.<br>
 • I am really glad I didn't skip any of the videos because I almost forgot how useful <code>box-sizing: border box;</code> or <code>max-width: 100%;</code>are!<br>
-• Also kept on working on building the landing page. I have changed some styles and added images to the page. When I was trying to style one of the links, I just couldn't make the styles apply, and only after quite a long time, full of much frustration, I noticed that instead of assigning a class to the link I needed to style, I assigned an id selector. What a silly mistake! Glad I figured it out though.
+• Also kept working on building the landing page. I have changed some styles and added images to the page. When I was trying to style one of the links, I just couldn't make the styles apply, and only after quite a long time, full of much frustration, I noticed that instead of assigning a class to the link I needed to style, I assigned an id selector. What a silly mistake! Glad I figured it out though.
+
+[7/100] <br>
+• Box shadows, text shadows and gradients today. When I learned about gradients a couple months ago, I didn't dive too deep into the topic, so I learned some pretty cool stuff today, especially how to layer multiple background images. <br>
+• I also continued learning how to make website mockups and created my first mockup (only a phone version for now).
