@@ -34,3 +34,7 @@
 [7/100] <br>
 • Box shadows, text shadows and gradients today. When I learned about gradients a couple months ago, I didn't dive too deep into the topic, so I learned some pretty cool stuff today, especially how to layer multiple background images. <br>
 • I also continued learning how to make website mockups and created my first mockup (only a phone version for now).
+
+[8/100] <br>
+• Today I applied media queries to the landing page I've been working on to make it responsive. <br>
+• Besides that, I was learning about the importance, specificity and source order in CSS.
