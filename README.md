@@ -38,3 +38,8 @@
 [8/100] <br>
 • Today I applied media queries to the landing page I've been working on to make it responsive. <br>
 • Besides that, I was learning about the importance, specificity and source order in CSS.
+
+[9/100] <br>
+• Learned how to use normalize.css to do a CSS reset, and how to create a fill-width header and sticky footer.
+• Started using a mobile first layout approach which I wasn't doing in the past! 
+• I was also reviewing and practicing display properties.
