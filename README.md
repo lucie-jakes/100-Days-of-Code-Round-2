@@ -43,3 +43,6 @@
 • Learned how to use normalize.css to do a CSS reset, and how to create a fill-width header and sticky footer.
 • Started using a mobile first layout approach which I wasn't doing in the past! 
 • I was also reviewing and practicing display properties.
+
+[10/100] <br>
+• Started the section about CSS floats today and adjusted the layout of the practice page I've been building using floats.
