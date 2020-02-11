@@ -46,3 +46,6 @@
 
 [10/100] <br>
 • Started the section about CSS floats today and adjusted the layout of the practice page I've been building using floats.
+
+[11/100] <br>
+• Kept on working with CSS floats to make sure I understand how to use them together with the "clearfix" hack. Since I used to use mostly flexbox and grid, I still don't entirely understand some aspects of floats, so I'm planning to do some further reading tomorrow.
