@@ -49,3 +49,6 @@
 
 [11/100] <br>
 • Kept on working with CSS floats to make sure I understand how to use them together with the "clearfix" hack. Since I used to use mostly flexbox and grid, I still don't entirely understand some aspects of floats, so I'm planning to do some further reading tomorrow.
+
+[12/100] <br>
+• Started working on the second project (2/9) for the Treehouse techdegree, so I've spend most of the day creating a mobile-first responsive layout based on the given mockups. I'm almost done with the mobile version, tomorrow I'm going to create media queries for tablets and desktops and hopefully finish the project.
