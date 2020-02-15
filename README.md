@@ -54,5 +54,8 @@
 • Started working on the second project (2/9) for the Treehouse techdegree, so I've spend most of the day creating a mobile-first responsive layout based on the given mockups. I'm almost done with the mobile version, tomorrow I'm going to create media queries for tablets and desktops and hopefully finish the project.
 
 [13/100] <br>
-• I spent most of the day working on project 2, got help from my techdegree slack channel community when I had a small issue with a misplaced header and got stuck for more than an hour trying to fix it. I got a very quick response to the pre-review request with the list of a few mistakes I made, fixed it and submitted for an official review.
+• I spent most of the day working on project 2, got help from my techdegree slack channel community when I had a small issue with a misplaced header and got stuck for more than an hour trying to fix it. I got a very quick response to the pre-review request with the list of a few mistakes I made, fixed it and submitted for an official review.<br>
 • I have learned a lot by building this mobile-first responsive layout project, definitely gonna try something similar in the upcoming few days to become better in creating layouts!
+
+[14/100] <br>
+• Reviewing HTML tables and forms. Forms are something that I'm quite familiar with, but I haven't worked with HTML tables before.
