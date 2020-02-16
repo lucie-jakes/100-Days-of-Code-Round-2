@@ -59,3 +59,9 @@
 
 [14/100] <br>
 • Reviewing HTML tables and forms. Forms are something that I'm quite familiar with, but I haven't worked with HTML tables before.
+
+[15/100] <br>
+• Spent the day working with HTML forms.
+
+[16/100] <br>
+• Finished the HTML forms section and started learning about CSS atribute selectors.
